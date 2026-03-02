@@ -8,11 +8,15 @@ Concepts: while loop, try/except for ValueError, f-strings with 2 decimal format
 Run: python pay_check_calculator.py
 
 Hours Worked (or 0 to exit program): 40
+
 Hourly Pay Rate: 22.50
 
 Gross Pay: $900.00
+
 Tax Rate: 18%
+
 Tax Amount: $162.00
+
 Take Home Pay: $738.00
 
 🥾 hike_calculator.py — Hike Distance Calculator
@@ -22,6 +26,7 @@ Concepts: Functions (calc_feet, user_input, main), try/except, negative number r
 Run: python hike_calculator.py
 
 How many miles did you walk?: 3.5
+
 You walked 18480.0 feet.
 
 ⚾ batting_average.py — Baseball Batting Average Calculator
@@ -31,11 +36,17 @@ Concepts: Menu-driven loop, try/except, division-by-zero guard, f-string formatt
 Run: python batting_average.py
 
 ==================================================
+
          Baseball Team Manager
+         
 MENU OPTIONS
+
 1 - Calculate Batting average
+
 2 - Exit Program
+
 ==================================================
+
 Batting average: 0.325
 
 ➕ basic_arithmetic.py — Basic Arithmetic Operations
@@ -45,10 +56,15 @@ Concepts: input(), int() conversion, arithmetic operators, print()
 Run: python basic_arithmetic.py
 
 Number 1: 12
+
 Number 2: 4
+
 number 1 * number 2 =  48
+
 number 1 + number 2 =  16
+
 number 1 / number 2 =  3.0
+
 number 1 - number 2 =  8
 
 💡 Key Concepts Across All Calculators
