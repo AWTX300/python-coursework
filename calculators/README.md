@@ -7,7 +7,6 @@ Calculates weekly gross pay, tax deduction (18%), and take-home pay from hours w
 Concepts: while loop, try/except for ValueError, f-strings with 2 decimal formatting, early exit with break
 Run: python pay_check_calculator.py
 
-Sample output:
 Hours Worked (or 0 to exit program): 40
 Hourly Pay Rate: 22.50
 
@@ -22,7 +21,6 @@ Converts miles walked into feet. Uses a function-based design with a dedicated i
 Concepts: Functions (calc_feet, user_input, main), try/except, negative number rejection, early exit on 0
 Run: python hike_calculator.py
 
-Sample output:
 How many miles did you walk?: 3.5
 You walked 18480.0 feet.
 
@@ -32,7 +30,6 @@ A menu-driven program for a baseball team manager. Calculates batting average (h
 Concepts: Menu-driven loop, try/except, division-by-zero guard, f-string formatting, int() conversion
 Run: python batting_average.py
 
-Sample output:
 ==================================================
          Baseball Team Manager
 MENU OPTIONS
@@ -47,7 +44,6 @@ Takes two integers from the user and prints the result of multiplication, additi
 Concepts: input(), int() conversion, arithmetic operators, print()
 Run: python basic_arithmetic.py
 
-Sample output:
 Number 1: 12
 Number 2: 4
 number 1 * number 2 =  48
