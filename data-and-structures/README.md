@@ -8,12 +8,19 @@ Concepts: while True loop, sentinel value ('x'), running total, input validation
 Run: python test_scores.py
 
 Sample output:
+
 Enter test score (or 'x' to quit): 88
+
 Enter test score (or 'x' to quit): 92
+
 Enter test score (or 'x' to quit): 75
+
 Enter test score (or 'x' to quit): x
+
 ======================
+
 Total Score: 255
+
 Average Score: 85
 
 🔤 strings_word_count.py — String Word Counter
